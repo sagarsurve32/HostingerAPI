@@ -1,0 +1,6 @@
+@HostingerAPI_HostAddress = http://localhost:5010
+
+GET {{HostingerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

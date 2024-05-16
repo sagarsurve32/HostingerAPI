@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostingerAPI", "HostingerAPI.csproj", "{DECCE854-9499-4446-B236-32E2CB008EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECCE854-9499-4446-B236-32E2CB008EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECCE854-9499-4446-B236-32E2CB008EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECCE854-9499-4446-B236-32E2CB008EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECCE854-9499-4446-B236-32E2CB008EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D062DF31-A4AC-40E5-AFE5-21494FA9EAF2}
+	EndGlobalSection
+EndGlobal
