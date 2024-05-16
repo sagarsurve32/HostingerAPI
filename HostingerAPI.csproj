@@ -7,6 +7,46 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="bin\Debug\net8.0\appsettings.Development.json" />
+    <Content Include="bin\Debug\net8.0\appsettings.json" />
+    <Content Include="bin\Debug\net8.0\HostingerAPI.deps.json" />
+    <Content Include="bin\Debug\net8.0\HostingerAPI.runtimeconfig.json" />
+    <Content Include="bin\Release\net8.0\appsettings.Development.json" />
+    <Content Include="bin\Release\net8.0\appsettings.json" />
+    <Content Include="bin\Release\net8.0\HostingerAPI.deps.json" />
+    <Content Include="bin\Release\net8.0\HostingerAPI.runtimeconfig.json" />
+    <Content Include="bin\Release\net8.0\publish\appsettings.Development.json" />
+    <Content Include="bin\Release\net8.0\publish\appsettings.json" />
+    <Content Include="bin\Release\net8.0\publish\HostingerAPI.deps.json" />
+    <Content Include="bin\Release\net8.0\publish\HostingerAPI.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\HostingerAPI.dll" />
+    <None Include="bin\Debug\net8.0\HostingerAPI.exe" />
+    <None Include="bin\Debug\net8.0\HostingerAPI.pdb" />
+    <None Include="bin\Debug\net8.0\Microsoft.OpenApi.dll" />
+    <None Include="bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll" />
+    <None Include="bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <None Include="bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll" />
+    <None Include="bin\Release\net8.0\HostingerAPI.dll" />
+    <None Include="bin\Release\net8.0\HostingerAPI.exe" />
+    <None Include="bin\Release\net8.0\HostingerAPI.pdb" />
+    <None Include="bin\Release\net8.0\Microsoft.OpenApi.dll" />
+    <None Include="bin\Release\net8.0\publish\HostingerAPI.dll" />
+    <None Include="bin\Release\net8.0\publish\HostingerAPI.exe" />
+    <None Include="bin\Release\net8.0\publish\HostingerAPI.pdb" />
+    <None Include="bin\Release\net8.0\publish\Microsoft.OpenApi.dll" />
+    <None Include="bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll" />
+    <None Include="bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <None Include="bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll" />
+    <None Include="bin\Release\net8.0\publish\web.config" />
+    <None Include="bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll" />
+    <None Include="bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <None Include="bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
